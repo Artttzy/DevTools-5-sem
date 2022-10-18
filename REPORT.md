@@ -15,3 +15,6 @@
     git checkout aca3abb
     git branch old-master
 ![](docs\t3.jpg)
+### 4. Комманды:
+    git blame prisma/seed.ts
+![](docs\t4.jpg)
