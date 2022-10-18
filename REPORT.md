@@ -43,4 +43,9 @@
 ![](docs\t11.jpg)
 ### 9. Команды:
     git fsck
-![](docs\t12.jpg)
+![](docs\t12.jpg)### 8. Команды:
+    git config rerere.enabled true
+    git merge feature
+### 10. Команды:
+    git gc --prune=now --aggressive
+![](docs\t13.jpg)
