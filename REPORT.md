@@ -18,3 +18,10 @@
 ### 4. Комманды:
     git blame prisma/seed.ts
 ![](docs\t4.jpg)
+### 5. Команды:
+    npm install --save-dev jest
+    git checkout master
+    git bisect start
+    git bisect bad
+![](docs\t5.jpg)
+![](docs\t6.jpg)
