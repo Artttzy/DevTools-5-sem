@@ -25,3 +25,8 @@
     git bisect bad
 ![](docs\t5.jpg)
 ![](docs\t6.jpg)
+### 6. Команды:
+    git filter-branch --tree-filter "rm -f .env" -- --all
+    echo .env >> .gitignore
+![](docs\t7.jpg)
+![](docs\t8.jpg)
