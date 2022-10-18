@@ -30,3 +30,7 @@
     echo .env >> .gitignore
 ![](docs\t7.jpg)
 ![](docs\t8.jpg)
+### 7. Команды:
+    git filter-branch -f --env-filter "GIT_AUTHOR_NAME=''; GIT_AUTHOR_EMAIL=''; GIT_COMMITTER_NAME='' GIT_COMMITTER_EMAIL=''" HEAD~1..HEAD
+![](docs\t9.jpg)
+![](docs\t10.jpg)
