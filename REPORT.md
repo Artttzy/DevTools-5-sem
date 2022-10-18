@@ -41,3 +41,6 @@
     git reset --hard HEAD~1
     git merge feature
 ![](docs\t11.jpg)
+### 9. Команды:
+    git fsck
+![](docs\t12.jpg)
