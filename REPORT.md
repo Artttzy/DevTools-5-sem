@@ -10,3 +10,8 @@
     git branch -D ci
 ![](docs\t1.jpg)
 ![](docs\t2.jpg)
+### 3. Комманды:
+    git reflog
+    git checkout aca3abb
+    git branch old-master
+![](docs\t3.jpg)
