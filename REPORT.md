@@ -34,3 +34,10 @@
     git filter-branch -f --env-filter "GIT_AUTHOR_NAME=''; GIT_AUTHOR_EMAIL=''; GIT_COMMITTER_NAME='' GIT_COMMITTER_EMAIL=''" HEAD~1..HEAD
 ![](docs\t9.jpg)
 ![](docs\t10.jpg)
+### 8. Команды:
+    git config rerere.enabled true
+    git merge feature
+
+    git reset --hard HEAD~1
+    git merge feature
+![](docs\t11.jpg)
