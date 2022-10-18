@@ -49,3 +49,9 @@
 ### 10. Команды:
     git gc --prune=now --aggressive
 ![](docs\t13.jpg)
+### 11. Команды:
+    git remote add origin https://github.com/Artttzy/DevTools-5-sem.git
+    git push -u origin master
+    git branch report
+    git add -p
+    e
