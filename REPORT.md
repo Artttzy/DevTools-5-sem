@@ -2,7 +2,7 @@
 ## Лабораторная работа №2
 
 ### 1. Было использовано расширение Git Graph
-### 2. Комманды:
+### 2. Команды:
     git checkout ci
     git rebase -i HEAD~2
     git checkout master
@@ -10,12 +10,12 @@
     git branch -D ci
 ![](./docs/t1.jpg)
 ![](./docs/t2.jpg)
-### 3. Комманды:
+### 3. Команды:
     git reflog
     git checkout aca3abb
     git branch old-master
 ![](./docs/t3.jpg)
-### 4. Комманды:
+### 4. Команды:
     git blame prisma/seed.ts
 ![](./docs/t4.jpg)
 ### 5. Команды:
