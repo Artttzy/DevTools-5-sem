@@ -13,7 +13,7 @@
 ### 3. Команды:
     git reflog
     git checkout aca3abb
-    git branch old-master
+    git switch -c old-master
 ![](./docs/t3.jpg)
 ### 4. Команды:
     git blame prisma/seed.ts
